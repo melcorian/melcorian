@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 The program's size is 4.1kb. 
 Download and install the program.
+The program parses all the latest news updates.
 Once installed, imput what you want to know (for example: Europe) and you have all the recent news on your screen.
 Click on the heading and you can read it in its respective website.
 
-Prerequisites: Python3
+Prerequisites: Python3 with python library installed.
