@@ -7,6 +7,8 @@ Melcorian News Program is a program that keeps you updated on what is happening 
 Here are some ideas to get you started:
 
 The program's size is 4.1kb. 
-Download and install the program. 
+Download and install the program.
 Once installed, imput what you want to know (for example: Europe) and you have all the recent news on your screen.
 Click on the heading and you can read it in its respective website.
+
+Prerequisites: Python3
