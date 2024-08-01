@@ -4,3 +4,9 @@ This program is licenced for personal and educational uses.
 
 Melcorian News Program is a program that keeps you updated on what is happening in the world around us. Keeping the right to know is important in the world today. 
 
+Here are some ideas to get you started:
+
+The program's size is 4.1kb. 
+Download and install the program. 
+Once installed, write what you need to know and you have all the recent news on your screen.
+Click on the heading and you can read it in its respective website.
