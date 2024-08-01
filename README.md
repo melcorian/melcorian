@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 The program's size is 4.1kb. 
 Download and install the program. 
-Once installed, write what you need to know and you have all the recent news on your screen.
+Once installed, imput what you want to know (for example: Europe) and you have all the recent news on your screen.
 Click on the heading and you can read it in its respective website.
